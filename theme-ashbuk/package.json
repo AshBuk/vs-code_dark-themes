@@ -1,0 +1,1 @@
+{"name":"theme-ashbuk-dark","displayName":"%displayName%","description":"%description%","version":"1.0.0","publisher":"asherbuk","license":"MIT","engines":{"vscode":"*"},"categories":["Themes"],"contributes":{"themes":[{"id":"AshBuk","label":"%themeLabel%","uiTheme":"vs-dark","path":"./themes/ashbuk-dark-color-theme.json"}]}}
