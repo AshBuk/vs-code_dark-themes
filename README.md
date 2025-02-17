@@ -9,3 +9,6 @@ Copy/unpack the theme-ashbuk directory into the directory where VS Code color th
 By default: code / resources / app / extensions
 
 After that, you will be able to select it from the list of available themes in the command palette or the extensions tab.
+
+![Screenshot from 2025-02-17 18-11-35](https://github.com/user-attachments/assets/11a9abd9-eb64-43d4-b500-5d08b5785e32)
+![Screenshot from 2025-02-17 18-12-16](https://github.com/user-attachments/assets/2629c677-3d6c-4171-91b0-72acf0de38b2)
