@@ -21,7 +21,7 @@
           "id": "AshBukAlt",
           "label": "%themeLabelAlt%",
           "uiTheme": "vs-dark",
-          "path": "./themes/ashbuk-dark-purple-theme.json"
+          "path": "./themes/ashbuk-dark--theme.json"
         }
       ]
     }
