@@ -1,29 +1,28 @@
 {
-    "name": "theme-ashbuk-dark",
-    "displayName": "%displayName%",
-    "description": "%description%",
-    "version": "1.0.0",
-    "publisher": "asherbuk",
-    "license": "MIT",
-    "engines": {
-      "vscode": "*"
-    },
-    "categories": ["Themes"],
-    "contributes": {
-      "themes": [
-        {
-          "id": "AshBuk",
-          "label": "%themeLabel%",
-          "uiTheme": "vs-dark",
-          "path": "./themes/ashbuk-dark-theme.json"
-        },
-        {
-          "id": "AshBukAlt",
-          "label": "%themeLabelAlt%",
-          "uiTheme": "vs-dark",
-          "path": "./themes/ashbuk-dark--theme.json"
-        }
-      ]
-    }
+  "name": "theme-ashbuk-dark",
+  "displayName": "%displayName%",
+  "description": "%description%",
+  "version": "1.0.0",
+  "publisher": "asherbuk",
+  "license": "MIT",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "id": "AshBuk-Dark",
+        "label": "%themeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ashbuk-dark-theme.json"
+      },
+      {
+        "id": "AshBuk-Dark-Purple",
+        "label": "%themeLabel%",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ashbuk-dark-purple-theme.json"
+      }
+    ]
   }
-  
+}
