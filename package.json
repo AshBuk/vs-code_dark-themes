@@ -9,6 +9,8 @@
     "vscode": "*"
   },
   "categories": ["Themes"],
+  "icon": "icon.png",
+  "readme": "README.md",
   "contributes": {
     "themes": [
       {
