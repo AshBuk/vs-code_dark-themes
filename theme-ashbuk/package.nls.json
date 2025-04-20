@@ -1,5 +1,6 @@
 {
-    "displayName": "AshBuk Dark Theme",
-    "description": "AshBuk dark theme for Visual Studio Code",
-    "themeLabel": "Asher Buk"
-}
+    "ashbuk.displayName": "AshBuk Dark Theme",
+    "ashbuk.description": "Dark theme collection for VS Code and Cursor",
+    "ashbuk.label.dark": "AshBuk Dark",
+    "ashbuk.label.purple": "AshBuk Dark Purple"
+  }

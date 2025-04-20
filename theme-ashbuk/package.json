@@ -1,7 +1,7 @@
 {
   "name": "theme-ashbuk-dark",
-  "displayName": "%displayName%",
-  "description": "%description%",
+  "displayName": "%ashbuk.displayName%",
+  "description": "%ashbuk.description%",
   "version": "1.0.0",
   "publisher": "asherbuk",
   "license": "MIT",
@@ -13,13 +13,13 @@
     "themes": [
       {
         "id": "AshBuk-Dark",
-        "label": "%themeLabel%",
+        "label": "%ashbuk.label.dark%",
         "uiTheme": "vs-dark",
         "path": "./themes/ashbuk-dark-theme.json"
       },
       {
         "id": "AshBuk-Dark-Purple",
-        "label": "%themeLabel%",
+        "label": "%ashbuk.label.purple%",
         "uiTheme": "vs-dark",
         "path": "./themes/ashbuk-dark-purple-theme.json"
       }
