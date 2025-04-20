@@ -1,15 +1,27 @@
-# vs-code_dark-theme
+Your eyes will thank you! Especially recommended for OLED display users. 
+Deep black turn off pixels, allowing you to code without screen glow — and your battery will last longer too.
 
-A dark theme for your VS Code, easy on the eyes and without neon colors.
-For those who want a comfortable experience in their editor,
-haven't found a suitable default color theme option,
-and don't want to configure it themselves.
+Download the `.vsix` release for easy installation 👉 [AshBuk Dark Themes VSIX](https://github.com/AshBuk/vs-code-cursor_dark-themes/releases/download/v1.0.0/vs-code-cursor_dark-themes.vsix). 
+You can also download the source code from [release page](https://github.com/AshBuk/vs-code-cursor_dark-themes/releases/latest)
+### GUI Method (Recommended)
+1. Open the **Command Palette** (`Ctrl+Shift+P`)
+2. Type and select: `Extensions: Install from VSIX...`
+3. Choose the downloaded `.vsix` file
+4. Open Command Palette again: `Ctrl+Shift+P`
+5. Type and select: `Preferences: Color Theme`
+6. Choose **AshBuk Dark** or **AshBuk Dark Purple**
 
-Copy/unpack the theme-ashbuk directory into the directory where VS Code color themes are located. 
-By default: code / resources / app / extensions
+### 🖥️ Terminal Method
+#### VS Code:
+Run the command from the directory where the .vsix file was downloaded:
+```bash
+code --install-extension ashbuk-dark-themes.vsix
+```
 
-After that, you will be able to select it from the list of available themes in the command palette or the extensions tab.
+🎨 Themes Included:
+🌑 AshBuk Dark
+![Screenshot From 2025-04-21 01-22-59](https://github.com/user-attachments/assets/470aa8af-31ec-4b16-a5d4-e05094b8943c)
 
-![Screenshot from 2025-02-17 18-19-17](https://github.com/user-attachments/assets/ba975f25-e46f-40da-af57-f73f38a8779b)
-![Screenshot from 2025-02-17 18-18-09](https://github.com/user-attachments/assets/13c96974-7933-4b46-b87a-a78cc2c35567)
 
+🟣 AshBuk Dark Purple
+![Screenshot From 2025-04-21 01-21-53](https://github.com/user-attachments/assets/f9963f95-566e-46aa-83bd-7cdfd5d636e8)
