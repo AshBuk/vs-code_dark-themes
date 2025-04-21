@@ -18,10 +18,12 @@ Run the command from the directory where the .vsix file was downloaded:
 code --install-extension ashbuk-dark-themes.vsix
 ```
 
-🎨 Themes Included:
+🟣 AshBuk Dark Purple
+![Cursor-dark-theme](https://github.com/user-attachments/assets/d1703a89-ce0d-4860-be9c-56dcec304ac4)
+
 🌑 AshBuk Dark
 ![Screenshot From 2025-04-21 01-22-59](https://github.com/user-attachments/assets/470aa8af-31ec-4b16-a5d4-e05094b8943c)
 
 
-🟣 AshBuk Dark Purple
-![Screenshot From 2025-04-21 01-21-53](https://github.com/user-attachments/assets/f9963f95-566e-46aa-83bd-7cdfd5d636e8)
+
+
