@@ -9,22 +9,21 @@ Deep black turn off pixels, allowing you to code without screen glow — and you
 
 </div>
 
-Download the `.vsix` release for easy installation 👉 [AshBuk Dark Themes VSIX](https://github.com/AshBuk/vs-code-cursor_dark-themes/releases/download/v1.0.0/vs-code-cursor_dark-themes.vsix). 
-You can also download the source code from [release page](https://github.com/AshBuk/vs-code-cursor_dark-themes/releases/latest)
-### GUI Method (Recommended)
-1. Open the **Command Palette** (`Ctrl+Shift+P`)
-2. Type and select: `Extensions: Install from VSIX...`
-3. Choose the downloaded `.vsix` file
-4. Open Command Palette again: `Ctrl+Shift+P`
-5. Type and select: `Preferences: Color Theme`
-6. Choose **AshBuk Dark** or **AshBuk Dark Purple**
+## 🚀 Installation
 
-### 🖥️ Terminal Method
-#### VS Code:
-Run the command from the directory where the .vsix file was downloaded:
-```bash
-code --install-extension ashbuk-dark-themes.vsix
-```
+1. Open **Extensions** in VS Code (`Ctrl+Shift+X`)
+2. Search for **"AshBuk Dark"**
+3. Click **Install**
+4. Go to **Settings** → **Color Theme** (`Ctrl+K Ctrl+T`)
+5. Choose **AshBuk Dark** or **AshBuk Dark Purple**
+
+## ✨ Features
+
+- **True Black Background** - Perfect for OLED displays
+- **Battery Saving** - Dark pixels consume less power
+- **Eye Comfort** - Reduced screen glow and strain
+- **Two Variants** - Classic dark and purple accent versions
+- **Carefully Crafted** - Optimized contrast and readability
 
 <div align="center">
 
