@@ -5,10 +5,26 @@
   "version": "1.0.0",
   "publisher": "asherbuk",
   "license": "MIT",
-  "engines": {
-    "vscode": "*"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AshBuk/vs-code-cursor_dark-themes.git"
   },
-  "categories": ["Themes"],
+  "homepage": "https://github.com/AshBuk/vs-code-cursor_dark-themes#readme",
+  "bugs": {
+    "url": "https://github.com/AshBuk/vs-code-cursor_dark-themes/issues"
+  },
+  "keywords": [
+    "dark theme",
+    "theme",
+    "purple",
+    "ashbuk"
+  ],
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
   "icon": "icon.png",
   "readme": "README.md",
   "contributes": {
@@ -26,5 +42,8 @@
         "path": "./themes/ashbuk-dark-purple-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@vscode/vsce": "^3.3.2"
   }
 }
