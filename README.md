@@ -9,7 +9,7 @@ Deep black turn off pixels, allowing you to code without screen glow — and you
 
 </div>
 
-## 🚀 Installation
+## ✦ Installation
 
 1. Open **Extensions** in VS Code (`Ctrl+Shift+X`)
 2. Search for **"AshBuk Dark"**
@@ -17,7 +17,7 @@ Deep black turn off pixels, allowing you to code without screen glow — and you
 4. Go to **Settings** → **Color Theme** (`Ctrl+K Ctrl+T`)
 5. Choose **AshBuk Dark** or **AshBuk Dark Purple**
 
-## ✨ Features
+## ✦ Features
 
 - **True Black Background** - Perfect for OLED displays
 - **Battery Saving** - Dark pixels consume less power
