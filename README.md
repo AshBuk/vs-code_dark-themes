@@ -28,7 +28,8 @@ Deep black turn off pixels, allowing you to code without screen glow — and you
 <div align="center">
 
 ## 🟣 AshBuk Dark Purple
-![Cursor-dark-theme](https://github.com/user-attachments/assets/d1703a89-ce0d-4860-be9c-56dcec304ac4)
+
+<img width="3200" height="2000" alt="dark-purple" src="https://github.com/user-attachments/assets/ea516e6f-4198-468a-bb0b-15853aab0216" />
 
 ## 🌑 AshBuk Dark  
 ![Screenshot From 2025-04-21 01-22-59](https://github.com/user-attachments/assets/470aa8af-31ec-4b16-a5d4-e05094b8943c)
