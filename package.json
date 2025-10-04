@@ -7,11 +7,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AshBuk/vs-code-cursor_dark-themes.git"
+    "url": "https://github.com/AshBuk/vs-code_dark-themes.git"
   },
-  "homepage": "https://github.com/AshBuk/vs-code-cursor_dark-themes#readme",
+  "homepage": "https://github.com/AshBuk/vs-code_dark-themes#readme",
   "bugs": {
-    "url": "https://github.com/AshBuk/vs-code-cursor_dark-themes/issues"
+    "url": "https://github.com/AshBuk/vs-code_dark-themes/issues"
   },
   "keywords": [
     "dark theme",

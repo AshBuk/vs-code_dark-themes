@@ -2,7 +2,7 @@
 
 # 🌙 AshBuk Dark Themes for VS Code
 
-**Dark and Dark Purple themes for VS Code**
+**Elegant dark themes for Visual Studio Code**
 
 Your eyes will thank you! Especially recommended for OLED display users.  
 Deep black turn off pixels, allowing you to code without screen glow — and your battery will last longer too.
